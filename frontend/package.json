@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "React frontend for the Personal Expense Tracker",
+  "description": "React frontend for the Personal Expense Tracker full stack development project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

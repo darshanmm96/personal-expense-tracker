@@ -1,6 +1,6 @@
-# Personal Expense Tracker (MERN Stack)
+# Personal Expense Tracker — Full Stack Development Project
 
-A complete, responsive personal finance application for tracking daily income, expenses and savings. Built with **MongoDB, Express, React and Node.js**, with JWT authentication, role-safe data access, interactive charts and a clean finance-focused dashboard.
+A complete, responsive personal finance application for tracking daily income, expenses and savings. Built as a **Full Stack Development** project with **MongoDB, Express, React and Node.js**, featuring JWT authentication, user-scoped data access, interactive charts and a clean finance-focused dashboard.
 
 ---
 
